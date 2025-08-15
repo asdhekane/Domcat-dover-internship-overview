@@ -3,7 +3,7 @@
 **Project Status:** Completed - July 2025
 
 <p align="center">
-  <img src="./assets/logo.png" alt="Project Logo" width="150">
+  <img src="./FinLogo.png" alt="Project Logo" width="150">
 </p>
 
 ## Project Overview
